@@ -178,3 +178,15 @@ Doggy Daycare/
 └─── vite.config.js
 
 ```
+
+4. Git
+
+```
+git init
+git remote add origin https://github.com/incognito1025/starter-react-props-doggy-daycare.git
+git branch -M main
+git add .
+git commit -m "initial commit"
+git push -u origin main
+
+```
